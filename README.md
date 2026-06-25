@@ -17,8 +17,6 @@ fields_of_interests:
 ]
 ```
 
-- <br>
-
 ## 📖 What I'm up to:
 ### 🔨 I'm currently..
 - Coding some lightweight clientside tools (check them out on my website!)

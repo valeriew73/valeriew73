@@ -25,7 +25,7 @@ fields_of_interests:
 
 
 ## 📫 You can reach me at:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Valerie Valentine Wilson) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/valerie-valentine-wilson) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:valerievwilson73@gmail.com) 
 
 # 💻 My Tech Stack:
@@ -50,7 +50,7 @@ fields_of_interests:
 ---
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=valeriew73&color=2041C2)
 
-*Last updated:* 25/06/2026
+*Last updated: 25/06/2026*
 
 ## 💥 Awesome stuff that went into this profile README
 - Badges, Github metrics, and inspo from [GPRM](https://gprm.itsvg.in)

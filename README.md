@@ -6,7 +6,7 @@ name: Valerie Valentine Wilson
 based_in: Shenzhen, China / Jakarta, Indonesia
 education: Bachelor's Computer Science and Engineering Student
            @ The Chinese University of Hong Kong, Shenzhen, class of 2029
-current_job: Incoming SRE Intern @ Infracom Technology
+current_job: SRE Intern @ Infracom Technology
 
 fields_of_interests:
   [
@@ -19,9 +19,9 @@ fields_of_interests:
 
 ## 📖 What I'm up to:
 ### 🔨 I'm currently..
-- Coding some lightweight clientside tools (check them out on my website!)
-- Working on CTFs (OverTheWire Bandit and picoCTF)
-- Studying for CompTIA Sec+
+- Working on my personal website + some lightweight tools
+- Cracking CTFs (OverTheWire Bandit and picoCTF)
+- Learning Datadog and studying for CompTIA's Sec+ cert
 
 
 ## 📫 You can reach me at:
@@ -50,7 +50,7 @@ fields_of_interests:
 ---
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=valeriew73&color=2041C2)
 
-*Last updated: 25/06/2026*
+*Last updated: 30/06/2026*
 
 ## 💥 Awesome stuff that went into this profile README
 - Badges, Github metrics, and inspo from [GPRM](https://gprm.itsvg.in)
